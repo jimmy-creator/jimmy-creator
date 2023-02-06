@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimmy-creator
-- 👀 I’m interested in new blockchain and disruptive tech
+- 👀 I’m interested in new blockchain and ml
 - 🌱 I’m currently learning development in web3 space
 - 💞️ I’m looking to collaborate on anything intersting
 - 📫 Reach out to me through twitter 0xjasim
