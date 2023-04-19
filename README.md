@@ -8,7 +8,28 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Skills
 
-JavaScript TypeScript NodeJS Ethereum Solidity Python Vyper React Next Svelte Vue Nuxt Express NestJS Ethers Web3JS Hardhat Truffle Alchemy Infura MetaMask IPFS Polygon MongoDB PostgreSQL Firebase Docker Nginx Bash Flutter Dart Prisma TailwindCSS Bootstrap MUI Sass CSS3 HTML5
+Solidity
+Ethereum
+TypeScript
+TailwindCSS
+Express
+NestJS
+IPFS
+Next
+React
+Docker
+Hardhat
+Ethers
+Truffle
+MetaMask
+Bootstrap
+Web3JS
+NodeJS
+MongoDB
+Python
+CSS3
+HTML5
+Firebase
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammedjasim.vercel.app/)
