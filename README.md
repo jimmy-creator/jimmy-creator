@@ -1,5 +1,5 @@
-- 👋 gm, I’m @jimmy-creator
-- 👀 I’m interested in blockchain and machine learning
+- 👋 gm,  its jasim 
+- 👀 Eager to build and try new stuffs on the internet
 
 <!---
 jimmy-creator/jimmy-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
